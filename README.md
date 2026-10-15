@@ -22,3 +22,4 @@ Production-ready e-commerce backend built with NestJS, designed for scalability 
 
 ---
 ## 📸 Swagger Preview
+![Swagger Preview](image.png)
